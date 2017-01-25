@@ -1,6 +1,6 @@
 #### My personal repository for good Python resources
 
-Note:  This list is work in progress, I'll add to it as I go. This is not intended to be a comprehensive list of everything available, if you are looking for something like that, check [wiki.python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) and the [official page for python](www.python.org).  
+Note:  This list is work in progress, I'll add to it as I go. This is not intended to be a comprehensive list of everything available, if you are looking for something like that, check [wiki.python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) and the [official page for python](https://www.python.org).  
 
 
 ##### Python basics and getting started    
