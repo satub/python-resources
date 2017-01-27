@@ -1,5 +1,5 @@
 #### Folder reserved for useful code snippets in Python.
 
-Unless stated otherwise, all these snippets will be written in Python 2.x
+Number in parentheses after the filename refers to python version.
 
-*  input_if_else.py:  reading from stdin, printing to stdout, if-elif structure
+*  input_if_else.py (2.7.x):  reading from stdin, printing to stdout, if-elif structure
