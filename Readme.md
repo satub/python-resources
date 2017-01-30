@@ -4,7 +4,7 @@ This list is work in progress, I'll add to it as I go. This is not intended to b
 
 I will also add short code snippets to this repo for noting down some basic syntax. As I am transferring to Python from Ruby, some of these snippets will contain code written in both languages to better grasp the syntax differences.
 
-Some of the code snippets will be written in python 2.7.x, some in python 3.x. To learn more about the difference between versions 2 and 3, [see here](https://www.quora.com/As-someone-interested-in-learning-Python-should-I-start-with-2-x-or-go-straight-to-3-x/answers/2220200?srid=hFhk&share=1). Quite a few guides are still written in python 2 and most macs come with that version installed. However, python 3 is the recommended version to use. If you want to add python 3 straight from your command line, [see instructions here](http://docs.python-guide.org/en/latest/starting/install3/osx/).
+Some of the code snippets will be written in python 2.7.x, some in python 3.x. To learn more about the difference between versions 2 and 3, [see here](https://www.quora.com/As-someone-interested-in-learning-Python-should-I-start-with-2-x-or-go-straight-to-3-x/answers/2220200?srid=hFhk&share=1) and [the wiki page linked](https://wiki.python.org/moin/Python2orPython3). Quite a few guides are still written in python 2 and most macs come with that version installed. However, python 3 is the recommended version to use. If you want to add python 3 to your Mac straight from your command line, [see instructions here](http://docs.python-guide.org/en/latest/starting/install3/osx/).
 
 ##### Python basics and getting started    
 
